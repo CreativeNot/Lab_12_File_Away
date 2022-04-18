@@ -1,0 +1,4 @@
+Implement a java program Lab_12_File_Away that uses the JFileChooser dialog to let the user
+specify a text file on the system.  The program should then open and read the file line by line.
+The program should then print a summary report of the file to the console (screen).  The
+summary report should contain the following:
